@@ -87,3 +87,18 @@ WARNING: Unmatched cancel notification for request id 549
 Jun 28, 2023 1:17:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 1827
 2023.06.28 13:17:28 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 15:40:09 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:40:39 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:41:34 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:42:28 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:44:09 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:44:34 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+Jun 28, 2023 3:44:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3040
+2023.06.28 15:44:58 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:45:35 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:47:52 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:47:58 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:48:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:49:25 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.06.28 15:52:14 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
