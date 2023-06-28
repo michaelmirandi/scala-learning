@@ -46,3 +46,44 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.06.26 15:10:44 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/12_case_classes/case_classes.scala
 2023.06.26 15:13:33 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/12_case_classes/case_classes.scala
 2023.06.26 15:13:45 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/12_case_classes/case_classes.scala
+2023.06.26 15:17:07 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/11_pattern_matching/pattern_matching.scala
+2023.06.26 15:54:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.26 15:54:58 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 09:18:46 INFO  Shutting down server
+2023.06.28 09:18:46 INFO  shutting down Metals
+2023.06.28 09:18:46 INFO  Exiting server
+2023.06.28 11:54:51 INFO  Started: Metals version 0.11.12 in workspace '/Users/mmirandi/Desktop/Learning/Scala/scala-learning' for client Visual Studio Code 1.73.1.
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/mmirandi/Desktop/Learning/Scala/scala-learning/.metals/metals (H2 2.1)
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.025s)
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jun 28, 2023 11:54:51 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.06.28 11:54:52 INFO  time: initialize in 0.57s
+2023.06.28 11:54:53 WARN  Build server is not auto-connectable.
+2023.06.28 11:54:53 WARN  no build tool detected in workspace '/Users/mmirandi/Desktop/Learning/Scala/scala-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.06.28 11:54:53 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 11:54:55 INFO  no build target found for /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.06.28 11:54:56 INFO  time: code lens generation in 2.14s
+Jun 28, 2023 11:57:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 549
+2023.06.28 11:57:29 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 11:58:37 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:12:33 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:12:51 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:14:29 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:14:57 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:15:44 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:16:30 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.06.28 13:16:40 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+Jun 28, 2023 1:17:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1827
+2023.06.28 13:17:28 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
