@@ -76,5 +76,54 @@ object Traversable {
         val testList = List(5, 6, 7, 8, 9)
         val testResult = testList.toList 
         println(testResult eq testList)
+
+        // toIterable will convert any Traversable to an Iterable
+        // base trait for all Scala collections defines an iterator 
+        // method to iterate through the collections elements
+        println(toWhateverSet.toIterable)
+        // toSeq converts Traversable to Seq
+        // Seq is an ordered Iterable and a superclass to List, Queue, and Vector
+        // Sequences provide a method apply for indexing
+        println(toWhateverSet.toSeq)
+        // toIndexedSeq converst Traversable to an IndexedSeq
+        // IndexedSeq is an indexed sequence used in Vectors and Strings...
+        println(toWhateverSet.toIndexedSeq)
+        // toStream converts Traversables to a LazyList.. elements are evaluated as they 
+        // are needed
+        val streamList = List(4, 6, 7, 8, 9, 13, 14)
+        println((streamList.to(LazyList) take 3))
+
+        // toSet converts Traversable to a Set
+        // collection of unordered, unique values
+        val setList = List(4, 6, 7, 8, 9, 13, 14)
+        println(setList.toSet)
+
+        // toMap converts a Traversable to a Map
+        // depends on the original collection (List or Seq)
+        val listToMap = List("Phoenix" -> "Arizona", "Austin" -> "Texas")
+        println(listToMap.toMap)
+        // same thing applies to sets
+        val setToMap = Set("Phoenix" -> "Arizona", "Austin" -> "Texas")
+        println(setToMap.toMap)
+
+        // intuitive...
+        val mapToPlayWith = setToMap.toMap
+        println(mapToPlayWith.isEmpty)
+        println(mapToPlayWith.nonEmpty)
+
+        val emptySet = Set()
+        println(emptySet.isEmpty)
+        println(emptySet.nonEmpty)
+
+        // size provides the size of the traversable
+        println(mapToPlayWith.size)
+
+        // knownSize will return number of elements if Traversable has finite end... otherwise -1
+        println(mapToPlayWith.knownSize)
+        val stream = 0 #:: 1 #:: LazyList.empty
+        println(stream.knownSize)
+        // streams are now know as LazyLists...
+        // changed in Scala 2.12
+        // use #:: to create a LazyList
     }
 }

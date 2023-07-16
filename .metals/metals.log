@@ -102,3 +102,368 @@ WARNING: Unmatched cancel notification for request id 3040
 2023.06.28 15:48:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
 2023.06.28 15:49:25 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
 2023.06.28 15:52:14 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/14_partially_applied_functions/partially_applied_functions.scala
+2023.07.07 10:42:50 INFO  Started: Metals version 0.11.12 in workspace '/Users/mmirandi/Desktop/Learning/Scala/scala-learning' for client Visual Studio Code 1.73.1.
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/mmirandi/Desktop/Learning/Scala/scala-learning/.metals/metals (H2 2.1)
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.010s)
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jul 07, 2023 10:42:50 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.07 10:42:50 INFO  time: initialize in 0.4s
+2023.07.07 10:42:51 WARN  Build server is not auto-connectable.
+2023.07.07 10:42:51 WARN  no build tool detected in workspace '/Users/mmirandi/Desktop/Learning/Scala/scala-learning'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.07 10:42:51 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:42:53 INFO  no build target found for /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.07.07 10:42:54 INFO  time: code lens generation in 2.19s
+2023.07.07 10:46:35 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+Jul 07, 2023 10:47:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 516
+2023.07.07 10:48:42 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:49:23 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:49:26 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:52:23 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:52:34 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:56:39 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:57:10 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+Jul 07, 2023 10:59:25 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: assertion failed
+java.lang.AssertionError: assertion failed
+	at scala.runtime.Scala3RunTime$.assertFailed(Scala3RunTime.scala:11)
+	at scala.meta.internal.pc.MetalsInteractive$.contextOfPath(MetalsInteractive.scala:52)
+	at scala.meta.internal.pc.MetalsInteractive$.contextOfPath(MetalsInteractive.scala:30)
+	at scala.meta.internal.pc.MetalsInteractive$.contextOfPath(MetalsInteractive.scala:30)
+	at scala.meta.internal.pc.completions.CompletionProvider.completions(CompletionProvider.scala:61)
+
+2023.07.07 10:59:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 10:59:57 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 11:00:04 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 11:00:21 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/17_traits/traits.scala
+2023.07.07 11:06:33 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:06:52 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:08:00 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:08:37 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:09:12 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:10:28 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:10:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:11:29 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:11:41 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:13:06 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:14:53 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:15:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.07 11:16:00 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/18_for_expressions/for_expressions.scala
+2023.07.08 12:24:39 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:25:04 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:26:16 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:27:17 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:27:30 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:28:08 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:28:20 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:30:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 12:31:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:19:56 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:20:14 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:20:27 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:20:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:20:47 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:20:57 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:21:59 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 13:23:03 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/19_infix_prefix_postfix/infix_prefix_postfix.scala
+2023.07.08 14:13:57 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.08 14:14:24 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.08 14:19:08 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.08 14:19:59 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.08 14:20:41 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.08 14:20:45 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/20_infix_types/infix_types.scala
+2023.07.10 11:20:19 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:20:53 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:24:00 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:24:23 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:25:23 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:26:02 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:26:10 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:26:45 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/13_range/range.scala
+2023.07.10 11:26:51 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:26:58 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:27:04 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:27:43 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:28:39 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+Jul 10, 2023 11:29:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10686
+2023.07.10 11:29:37 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:29:41 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:32:19 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:33:26 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:33:37 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/21_sequences_and_arrays/sequences_and_arrays.scala
+2023.07.10 11:51:42 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 11:52:05 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:10:41 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:11:11 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:13:28 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:14:10 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:14:17 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:16:14 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:16:20 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:16:51 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:32:08 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.10 12:34:00 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:47:29 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:48:04 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:49:14 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:50:07 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:51:03 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:51:44 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:52:37 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:52:45 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:53:35 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:53:42 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:57:36 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.12 20:58:54 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/22_iterables/iterables.scala
+2023.07.14 20:30:55 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 20:31:16 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 20:31:18 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:09:06 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:09:17 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:09:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+Jul 14, 2023 9:10:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.checkParent$7(Trees.scala:231)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.privateCopy(Trees.scala:232)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.processPatAndNextQual(FlatMapToForComprehensionCodeAction.scala:313)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$extractChainedForYield$1(FlatMapToForComprehensionCodeAction.scala:603)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.extractChainedForYield(FlatMapToForComprehensionCodeAction.scala:601)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$codeActionWithApply$1(FlatMapToForComprehensionCodeAction.scala:187)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.codeActionWithApply(FlatMapToForComprehensionCodeAction.scala:179)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$5(FlatMapToForComprehensionCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2023.07.14 21:10:18 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:10:52 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:11:21 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+Jul 14, 2023 9:12:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16964
+2023.07.14 21:13:17 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+Jul 14, 2023 9:15:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.checkParent$7(Trees.scala:231)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.privateCopy(Trees.scala:232)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.processPatAndNextQual(FlatMapToForComprehensionCodeAction.scala:313)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$extractChainedForYield$1(FlatMapToForComprehensionCodeAction.scala:603)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.extractChainedForYield(FlatMapToForComprehensionCodeAction.scala:601)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$codeActionWithApply$1(FlatMapToForComprehensionCodeAction.scala:187)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.codeActionWithApply(FlatMapToForComprehensionCodeAction.scala:179)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$5(FlatMapToForComprehensionCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 14, 2023 9:15:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+java.util.concurrent.CompletionException: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.scalameta.invariants.InvariantFailedException: invariant failed:
+when verifying parentCheckOk.&&(org.scalameta.`package`.debug(this, parentPrefix, destination))
+found that parentCheckOk is false
+where TermRepeatedImpl = _ *
+where destination = fun
+where parentCheckOk = false
+where parentPrefix = Term.Apply
+where this = _ *
+	at org.scalameta.invariants.InvariantFailedException$.raise(Exceptions.scala:19)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.checkParent$7(Trees.scala:231)
+	at scala.meta.Term$Repeated$TermRepeatedImpl.privateCopy(Trees.scala:232)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.Term$Apply$.apply(Trees.scala:121)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.processPatAndNextQual(FlatMapToForComprehensionCodeAction.scala:313)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$extractChainedForYield$1(FlatMapToForComprehensionCodeAction.scala:603)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.extractChainedForYield(FlatMapToForComprehensionCodeAction.scala:601)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$codeActionWithApply$1(FlatMapToForComprehensionCodeAction.scala:187)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.codeActionWithApply(FlatMapToForComprehensionCodeAction.scala:179)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$5(FlatMapToForComprehensionCodeAction.scala:61)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$3(FlatMapToForComprehensionCodeAction.scala:53)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$2(FlatMapToForComprehensionCodeAction.scala:52)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.codeactions.FlatMapToForComprehensionCodeAction.$anonfun$contribute$1(FlatMapToForComprehensionCodeAction.scala:51)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+Jul 14, 2023 9:15:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17507
+2023.07.14 21:15:49 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:17:12 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:17:25 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:18:44 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+Jul 14, 2023 9:20:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18840
+2023.07.14 21:21:02 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:21:46 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:23:08 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:24:08 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:24:47 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:25:52 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:30:27 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:31:33 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:32:24 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:32:30 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:33:24 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:33:40 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:34:15 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:34:47 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:35:01 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:35:19 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:36:04 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:37:52 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:38:29 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:39:12 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:39:47 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:40:13 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:41:10 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.14 21:42:38 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.15 10:22:51 WARN  no build target for: /Users/mmirandi/Desktop/Learning/Scala/scala-learning/std_lib/23_traversables/traversables.scala
+2023.07.15 10:22:51 INFO  Shutting down server
+2023.07.15 10:22:51 INFO  shutting down Metals
+2023.07.15 10:22:51 INFO  Exiting server
+2023.07.15 23:58:15 INFO  Started: Metals version 0.11.12 in workspace '/Users/mmirandi/Desktop/Learning/Scala/scala-learning' for client Visual Studio Code 1.73.1.
+Jul 15, 2023 11:58:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 15, 2023 11:58:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 15, 2023 11:58:15 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 15, 2023 11:58:16 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:/Users/mmirandi/Desktop/Learning/Scala/scala-learning/.metals/metals (H2 2.1)
+Jul 15, 2023 11:58:16 PM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.010s)
+Jul 15, 2023 11:58:16 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": 4
+Jul 15, 2023 11:58:16 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Schema "PUBLIC" is up to date. No migration necessary.
+2023.07.15 23:58:16 INFO  time: initialize in 0.33s
