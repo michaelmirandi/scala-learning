@@ -1,3 +1,16 @@
+// case classes don't need the new keyword
+// case classes are better for pattern matching
+// case class equality is based on value
+// regular class equality is based on reference
+// case classes parameters are immutable & can be accessed directly
+// regular classes allow for more custom functionality
+// case classes have more automatic methods (toString, equals, hashCode, and copy)
+// case classes have an unapply method which can be used in pattern matching
+// useful for destructuring assignments
+
+// case classes -> immutable data & built in features
+// regular classes -> customizability
+
 // no params
 class WithoutClassParameters {
   def addColors(red: Int, green: Int, blue: Int) = {
