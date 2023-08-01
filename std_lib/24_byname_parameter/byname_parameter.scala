@@ -2,6 +2,10 @@ object PigLatinizer {
     def apply(x: => String) = x.tail + x.head + "ay"
 }
 
+// either is intuitive...
+// throwable is a superclass of all the errors used for exception handling
+// Unit indicates a type that has no meaniful value if being returned
+// Unit is synonomous with None, Undefined, and Void
 object BynameParameter {
     def calc(x: () => Int): Either[Throwable, Int] = {
         try Right(x())
